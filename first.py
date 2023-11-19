@@ -1,1 +1,1 @@
-print('My first git-rope')
+print('My first git-repo')
